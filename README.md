@@ -1,5 +1,5 @@
 # pyspark-mllib
-pyspark &amp; mllib example 
+mllib with pyspark
 
 All I wanted was to show what I knew in this field. 
 
